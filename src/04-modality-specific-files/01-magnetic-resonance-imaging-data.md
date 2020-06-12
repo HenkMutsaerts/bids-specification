@@ -586,3 +586,6 @@ file to obtain scanning parameters. \_epi files can be a 3D or 4D - in the
 latter case all timepoints share the same scanning parameters. To indicate which
 run is intended to be used with which functional or diffusion scan the
 IntendedFor field in the JSON file should be used.
+
+
+TEST FOR HJ
