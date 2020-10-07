@@ -446,6 +446,8 @@ JSON example:
 }
 ```
 
+## Arterial Spin Labeling data
+
 ## Fieldmap data
 
 Data acquired to correct for B0 inhomogeneities can come in different forms. The
